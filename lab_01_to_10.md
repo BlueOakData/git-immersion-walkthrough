@@ -5,22 +5,31 @@ Write commit messages. They'll help future you, and your team will thank me.
 
 These are good commit messages, taken from another learning project of mine:
 > main: corrected remaining models based on example, ran/built models
+>
 > main: attempt at models practice, corrected stg_stripe__payments based on example
+>
 > main: did not commit with message from course, formatted readme
+>
 > dbt materialization actually solved, models organized, onto commits lesson
 
 These summarize the changes, document what you were thinking or working on. These include details that will help someone step through the history of the project, if required for a bug hunt.
 
 These are bad commit messages, some of which I've written and some of which I've witnessed:
 > LNR-314: typos again
+>
 > LNR-159: fixes
+>
 > potato function
+>
 > max mustermann magic
-> kill me
+>
+> cut my life into pieces
+>
 > asdfasdf
+>
 > ^,...,^
 
-These don't explain the what. Nor the why. Nor the how. Nor what was intended in the committed code.
+These don't explain the what. Nor the why. Nor the how. Nor what the author intended the committed code to do.
 
 # LAB 1 through LAB 10
 
