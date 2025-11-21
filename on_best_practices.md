@@ -1,0 +1,15 @@
+# On Best Practices for Analysts and Analytics Engineers
+- Prefer main to master for default branch
+- Prefer repos be started from a template or framework (i.e. dbt init command)
+- Prefer private repos in a github organization, unless open-source
+- Prefer personal accounts, added to the github organization
+- Development lifecycle
+    - Clone the repo locally
+    - Develop off the main branch, on a branch created on a local copy of the repo
+    - Name the branch in some systematic way (i.e. issue/ticket id, issue id + issue name, contributor + purpose, project phase/task, etc.)
+    - start a commit message with the name of the issue/branch
+    - Push the changes from the local branch to the remote repo, complete a Pull Request
+        - Have the Pull Request reviewed by a teammate before merging
+        - Have the author merge the PR and delete the branch
+- Learn with the command line; relying on a GUI may not provide a deep understanding of version control.
+    - Maybe you're fine with that. I wasn't
