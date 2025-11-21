@@ -5,9 +5,11 @@ This repository is meant to be a guide to learning git, primarily via the Git Im
 ## The Audience
 This guide is meant to help data analysts or new analytics engineers get comfortable with git, the command line interface (CLI), and the principles behind version-control.
 
-If you're a seasoned engineer -- welcome! This isn't for you. If you can name an alternative to git, chances are this isn't for you. There's better resources out there for those of you with more than a cursory knowledge of software engineering best-practices.
+If you're a seasoned engineer -- welcome! This isn't for you. If you can name an alternative to git, chances are this isn't for you. There are better resources out there for y'all with more than a cursory knowledge of software engineering best-practices.
 
-If you've been struggle to understand, you're coming from a non-traditional background into engineering, or you're at all like me -- welcome. I hope this helps you as much as Git Immersion helped me.
+If you've been struggle to understand; you're coming from a non-traditional or business background into data; or you're at all like me -- welcome.
+
+I hope this helps you as much as Git Immersion helped me.
 
 ## On the Shoulders of Giants
 
@@ -28,7 +30,7 @@ The intent in this guide is to share resouces that I found extremely valuable in
 - Bash for Beginners - Microsoft Developer YT [course](https://youtube.com/playlist?list=PLlrxD0HtieHh9ZhrnEbZKhzk0cetzuX7l&si=cS1wji6viBHm4Zbp)
 
 # To Dos
-- Undoing a commit notes
+- Undoing a commit notes (reset head?)
 - atomic commit notes
 - finish rebase vs merge notes, link Primeagen video(s)
 - local vs remote branches
